@@ -1,0 +1,20 @@
+{
+    "name": "Projeto Agenda",
+    "short_name": "Agenda",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#333333",
+    "icons": [
+        {
+            "src": "image/1.jpeg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "image/2.jpeg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
